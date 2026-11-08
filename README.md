@@ -15,7 +15,7 @@ The goal is to detect how hard the drum is struck and use applied pressure to co
 ## Bill of Materials
 
 | Part | Description | Qty | Unit Price | Total | Vendor |
-|------|-------------|----:|-----------:|------:|------:|
+|------|-------------|----:|-----------:|------:|------|
 | XIAO ESP32-S3 | MIDI Controller | 1 | $7.49 | $7.49 | https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html |
 | Connector pin | Connects the sensors to the PCB | 6 | $1.16 | $6.96 | https://www.digikey.com/en/products/detail/phoenix-contact/1715022/260626 |
 | 10k Resistor | Voltage divider | 10 | $0.10 | $1.00 | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676 |
