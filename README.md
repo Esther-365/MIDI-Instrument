@@ -23,11 +23,11 @@ The goal is to detect how hard the drum is struck and use applied pressure to co
 | Schottky diode | Protects the MCU from voltage spikes | 4 | $0.57 | $2.28 | https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/SD103AW?qs=OlC7AqGiEDkHDitXxgKEcA%3D%3D |
 | PCB | To place electronic components | 1 | $5.00 | $5.00 | https://cart.jlcpcb.com/quote |
 
-![PCB Image](MIDI_Gangan_PCB.png)
+![PCB Image](Image/MIDI_Gangan_PCB.png)
 
 **How It Works**
 The piezo sensor detects strikes and determines MIDI velocity, the FSR measures pressure to control MIDI pitch bend. The XIAO ESP32-S3 processes the readings of the piezoelectric and FSR sensor and sends MIDI data over USB.
 
 This is a learning project, so I'm figuring things out as I go and improving the design along the way!
 
-![3D View](3D_Viewer.png)
+![3D View](Image/3D_Viewer.png)
